@@ -1,0 +1,7 @@
+name: "tutorial_indeex_server"
+description: "The tutorial indeex server."
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies: 
+  http_server: ^1.0.0
